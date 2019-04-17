@@ -1,7 +1,7 @@
 ## [大力有话说](http://laoxue.org)
 > **xx：xxxxxx。**
 
-![dali](https://pic4.zhimg.com/80/v2-0a5a718de13fab1ebae454d12bea1326_hd.jpg =100x100)
+<img src="https://pic1.zhimg.com/80/v2-d29a15b6fa405f08090a5a11692d4660_hd.jpg" style="zoom:50%" />
 ## 2017
 ### 六月
 
