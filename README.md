@@ -1,7 +1,7 @@
 ## [大力有话说](http://laoxue.org)
 > **Life.pop('fear')。**
 
-<img src="https://pic2.zhimg.com/80/v2-6626a7c1823adc41d103146e1705fca7_hd.jpg" style="max-width:65%;" />
+<img src="https://pic2.zhimg.com/80/v2-6626a7c1823adc41d103146e1705fca7_hd.jpg" width="200" height="200" />
 ## 2017
 ### 六月
 
